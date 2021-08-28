@@ -1,6 +1,6 @@
-/* #nav-links {
-
-} */
+#nav-links {
+	color: red;
+}
 
 .plain-list {
 	display: inline-block;
